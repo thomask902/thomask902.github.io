@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm originally from Halifax, Nova Scotia <img src="/images/ns.png" alt="Nova Scotia Flag" width="20" height="20" style="vertical-align: middle;">
+I'm originally from Halifax, Nova Scotia <img src="/images/ns.png" alt="Nova Scotia Flag" width="40" height="40" style="vertical-align: middle;">
 
 and I attended the University of Waterloo, where I graduated with a Bachelor of Applied Science in Management Engineering and:
 
