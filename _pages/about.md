@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm originally from Halifax, Nova Scotia <img src="/images/ns.png" alt="Nova Scotia Flag" width="40" height="40" style="vertical-align: baseline;">
+I'm from Halifax, Nova Scotia (<img src="/images/ns.png" alt="Nova Scotia Flag" width="30" height="30" style="vertical-align: baseline;">), Canada
 
-I attended the University of Waterloo, where I graduated with a Bachelor of Applied Science in Management Engineering and
+I attended the University of Waterloo, where I graduated with a Bachelor of Applied Science in Management Engineering and...
 
 - Did research on numerical optimization techniques for training machine learning models under [Professor Saeed Ghadimi](https://uwaterloo.ca/management-science-engineering/profile/s2ghadim "Professor Saeed Ghadimi")
 
