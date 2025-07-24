@@ -29,9 +29,6 @@
       @include clearfix;
       padding: 0.5em 1em;
       font-family: $sans-serif-narrow;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
   
       @include breakpoint($x-large) {
         max-width: $x-large;
@@ -39,7 +36,6 @@
   
       nav {
         z-index: 10;
-        margin-left: auto; // Pushes nav to right
       }
   
       a {
@@ -49,22 +45,20 @@
   }
   
   .masthead__menu {
+  
     ul {
       margin: 0;
       padding: 0;
       clear: both;
       list-style-type: none;
-      display: flex;
-      justify-content: flex-end;
     }
   }
   
   .masthead__menu-item {
     background-color: var(--global-bg-color);
-    display: inline-block; // Changed from block for horizontal layout
+    display: block;
     list-style-type: none;
     white-space: nowrap;
-    margin-left: 1.5em; // Adds spacing between items
   
     &--lg {
       padding-right: 2em;
