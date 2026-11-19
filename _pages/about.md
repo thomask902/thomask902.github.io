@@ -13,18 +13,19 @@ I'm currently a graduate student in Computer Science at the University of Toront
 
 My research interests lie in the application of machine learning and ubiquitous computing to enable proactive healthcare and improve patient outcomes.
 
-My current work includes...
+Recently I have been...
 
-- Multimodal health sensing data collection with heart failure patients at Toronto General Hospital, and open-sourced in the [Auricle Dataset](https://doi.org/10.13026/swme-vp69) for training and evaluating cardiovascular monitoring solutions
+- Doing multimodal health sensing data collection with heart failure patients at Toronto General Hospital, recently open-sourced in the [Auricle Dataset](https://doi.org/10.13026/swme-vp69) for training and evaluating cardiovascular monitoring solutions
 
-- Engineered [PulseKit](https://github.com/chai-toronto/pulsekit), an open-source physiological signal processing library, facilitating low-code analysis of the Auricle Dataset
+- Engineering [PulseKit](https://github.com/chai-toronto/pulsekit), an open-source physiological signal processing library, facilitating low-code analysis of the Auricle Dataset
+
+- Researching cuffless blood pressure modelling solutions
 
 - Researching remote patient monitoring solutions with wearable devices for individuals with chronic respiratory conditions
 
 - Playing as many intramural sports as possible
 
 - Beating my friends in fantasy football 
-
 
 I attended the University of Waterloo, where I graduated with a Bachelor of Applied Science in Management Engineering and...
 
