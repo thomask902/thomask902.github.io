@@ -13,7 +13,7 @@ I'm currently a graduate student in Computer Science at the University of Toront
 
 My research interests lie in the application of machine learning and ubiquitous computing to enable proactive healthcare and improve patient outcomes.
 
-My Current work includes...
+My current work includes...
 
 - Multimodal health sensing data collection with heart failure patients at Toronto General Hospital, and open-sourced in the [Auricle Dataset](https://doi.org/10.13026/swme-vp69) for training and evaluating cardiovascular monitoring solutions
 
